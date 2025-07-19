@@ -1,13 +1,51 @@
-## About Me
-Hi, I’m **Amr Zakariya**—a senior computer-science student who treats infrastructure as code and delivery as a pipeline.  
-My daily toolkit: **AWS CloudFormation · Docker · GitHub Actions · CloudWatch · Kubernetes**.
+<!-- Profile README for Amr Zakariya (@Amrzzk) -->
 
-### What I’m building
-- **Serverless URL shortener** on AWS SAM (API Gateway | Lambda | DynamoDB) with automated deploys and alerting.
-- **Modern portfolio site** containerized with multi-stage Docker builds and shipped via Render.
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-CloudFormation-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CloudWatch-%235A2E82?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
 
-### Interests
-Cloud automation · Secure CI/CD · Observability · SRE culture · Open source collaboration.
+<h1 align="center">Hey, I'm Amr Zakariya 👋</h1>
 
-### Let’s connect
-If you’re working on cloud-native projects or just want to chat DevOps, feel free to reach out or open an issue.
+<p align="center">
+  Senior CS student who treats <strong>infrastructure as code</strong> and <strong>delivery as a pipeline</strong>.
+  <br/>
+  <em>Automating, containerizing &mdash; and reading logs so you don't have to 🔍</em>
+</p>
+
+---
+
+## 🚀 What I’m building
+
+| Project | Stack | Status |
+|---------|-------|--------|
+| **Serverless URL Shortener** | AWS SAM • API Gateway • Lambda • DynamoDB • CloudFormation • GitHub Actions • CloudWatch/SNS | 🚧 In progress |
+| **Modern Portfolio Site** | Flask • Multi-stage Docker • Render • GitHub Actions | ✅ Live @ <https://amrportfolio.onrender.com> |
+
+---
+
+## 💡 Interests
+
+`Cloud automation` • `Secure CI/CD` • `Observability` • `SRE culture` • `Open-source collaboration`
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amrzzk&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amrzzk&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</div>
+
+---
+
+## 🤝 Let’s connect
+
+- 💼 LinkedIn: [linkedin.com/in/amr-swefy]([https://www.linkedin.com/in/Amrzzk](https://www.linkedin.com/in/amr-swefy-8a1a0426b/))
+- ✉️ Raise an [issue](https://github.com/Amrzzk/Amrzzk/issues) or drop a DM if you’re tinkering with cloud-native tech.
+
+> “Works on my machine” isn’t a feature.  
+> Let’s ship better software — together. 🚢
