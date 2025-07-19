@@ -1,16 +1,13 @@
-## Hi there 👋
+## About Me
+Hi, I’m **Amr Zakariya**—a senior computer-science student who treats infrastructure as code and delivery as a pipeline.  
+My daily toolkit: **AWS CloudFormation · Docker · GitHub Actions · CloudWatch · Kubernetes**.
 
-<!--
-**Amrzxk/Amrzxk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I’m building
+- **Serverless URL shortener** on AWS SAM (API Gateway | Lambda | DynamoDB) with automated deploys and alerting.
+- **Modern portfolio site** containerized with multi-stage Docker builds and shipped via Render.
 
-Here are some ideas to get you started:
+### Interests
+Cloud automation · Secure CI/CD · Observability · SRE culture · Open source collaboration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Let’s connect
+If you’re working on cloud-native projects or just want to chat DevOps, feel free to reach out or open an issue.
