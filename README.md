@@ -36,8 +36,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amrzzk&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amrzzk&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Amrzxk&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amrzxk&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </div>
 
 ---
@@ -45,7 +45,7 @@
 ## 🤝 Let’s connect
 
 - 💼 LinkedIn: [linkedin.com/in/amr-swefy]([https://www.linkedin.com/in/Amrzzk](https://www.linkedin.com/in/amr-swefy-8a1a0426b/))
-- ✉️ Raise an [issue](https://github.com/Amrzzk/Amrzzk/issues) or drop a DM if you’re tinkering with cloud-native tech.
+- ✉️ Raise an [issue](https://github.com/Amrzxk/Amrzxk/issues) or drop a DM if you’re tinkering with cloud-native tech.
 
 > “Works on my machine” isn’t a feature.  
 > Let’s ship better software — together. 🚢
