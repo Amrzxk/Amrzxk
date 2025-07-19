@@ -44,7 +44,7 @@
 
 ## 🤝 Let’s connect
 
-- 💼 LinkedIn: [linkedin.com/in/amr-swefy-8a1a0426b]([https://www.linkedin.com/in/amr-swefy-8a1a0426b])
+- 💼 [LinkedIn](https://www.linkedin.com/in/amr-swefy-8a1a0426b/)
 - ✉️ Raise an [issue](https://github.com/Amrzxk/Amrzxk/issues) or drop a DM if you’re tinkering with cloud-native tech.
 
 > “Works on my machine” isn’t a feature.  
