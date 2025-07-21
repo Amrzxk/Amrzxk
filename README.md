@@ -31,17 +31,6 @@
 
 `Cloud automation` • `Secure CI/CD` • `Observability` • `SRE culture` • `Open-source collaboration`
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amrzxk&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amrzxk&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</div>
-
----
-
 ## 🤝 Let’s connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/amr-swefy-8a1a0426b/)
