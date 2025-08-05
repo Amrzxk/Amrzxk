@@ -22,7 +22,7 @@
 
 | Project | Stack | Status |
 |---------|-------|--------|
-| **Serverless URL Shortener** | AWS SAM • API Gateway • Lambda • DynamoDB • CloudFormation • GitHub Actions • CloudWatch/SNS | 🚧 In progress |
+| **Serverless URL Shortener** | AWS SAM • API Gateway • Lambda • DynamoDB • CloudFormation • GitHub Actions • CloudWatch/SNS | ✅ Live @ <https://d2kg1zcu67lqk9.cloudfront.net> |
 | **Modern Portfolio Site** | Flask • Multi-stage Docker • Render • GitHub Actions | ✅ Live @ <https://amrportfolio.onrender.com> |
 
 ---
