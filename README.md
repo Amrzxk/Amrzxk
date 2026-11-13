@@ -11,7 +11,7 @@
 <h1 align="center">Hey, I'm Amr Zakariya 👋</h1>
 
 <p align="center">
-  Senior CS student who treats <strong>infrastructure as code</strong> and <strong>delivery as a pipeline</strong>.
+  CS Grad and Cloud Engineer who treats <strong>infrastructure as code</strong> and <strong>delivery as a pipeline</strong>.
   <br/>
   <em>Automating, containerizing &mdash; and reading logs so you don't have to 🔍</em>
 </p>
